@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/vegas.zdepth.compositor",
+    "version":  "1.0.0",
+    "description":  "Sandwiches a layer behind the foreground subject of the underlying video track.",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
