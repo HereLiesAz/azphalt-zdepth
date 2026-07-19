@@ -1,5 +1,5 @@
 {
-  "id": "vegas.zdepth.compositor",
+  "id": "com.hereliesaz.azphalt.zdepth",
   "version": "1.0.0",
   "name": "AI Z-Depth Compositor",
   "description": "Sandwiches a layer behind the foreground subject of the underlying video track.",
