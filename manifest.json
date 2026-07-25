@@ -1,11 +1,12 @@
 {
+  "azphalt": "0.1",
   "id": "com.hereliesaz.azphalt.zdepth",
-  "version": "1.0.0",
   "name": "AI Z-Depth Compositor",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
   "description": "Sandwiches a layer behind the foreground subject of the underlying video track.",
-  "files": {
-    "assets/preset.json": "sha256-placeholder"
-  },
   "assets": [
     {
       "type": "motion",
