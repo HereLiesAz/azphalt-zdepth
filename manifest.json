@@ -4,9 +4,10 @@
   "name": "AI Z-Depth Compositor",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
   "description": "Sandwiches a layer behind the foreground subject of the underlying video track.",
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
